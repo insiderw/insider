@@ -1,0 +1,28 @@
+<html>
+<title id="table of contents"> Автопарк DeusVult </title> 
+<body style="background-color:#D3D3D3" >
+    <header>  
+<h1 align="center" > Автопарк: <font-color="#000080">DeusVult </h1>
+<img src="https://militaryarms.ru/wp-content/uploads/2018/01/rycar-tamplier.jpg"width=70px> 
+<a href="#contacts"> Перейти к контактам </a>
+    </header> 
+    <main>         
+      <p> В автопарке DeusVult есть такие авто как: Ferrari 488 GTB </p>
+      <table style="border: 1px solid green">
+        <tr>
+         <td style="border: 1px solid green"> Ferrari 488 gtb</td>
+         <td style="border: 1px solid green"> Двигатель 3.9 литров </td>
+         <td style="border: 1px solid green"> Мощность 670 л.с. </td>
+         <td style="border: 1px solid green"> Крутящий момент 760 H.m. </td>
+         <td style="border: 1px solid green"> Коробка передач роботизированная (7 ступеней)</td>
+         <td style="border: 1px solid green"> Привод задний </td> 
+        </tr>
+      </table>
+            <img src="https://www.topgear.com/sites/default/files/images/news-article/2016/05/49acaa1688ec3e636867da07e0d374cd/ferrari-488-gtb_1.jpg"width=500px>
+    </main>  
+    <footer> 
+      <p id="contacts"> Адрес: Рублевка Дом 3310. Тел: 4646. </p>
+      <a href="#table of contents"> Перейти к оглавлению </a>
+    </footer> 
+  </body>  
+</html>
